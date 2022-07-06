@@ -3,3 +3,70 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+.donate-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.first-head{
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-left: 30%;
+
+}
+.donate-now{
+    position: relative;
+    display: block;
+}
+.flex-container{
+    background-image: url(images/donation8.jpg);
+    background-image: linear-gradient();
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-weight: 500px;
+    
+}
+.flex-container1{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    padding-left: 25%;
+}
+.amount{
+    padding: 30px 20px;
+    background-color: aliceblue;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+#second-amount{
+    background-color: lightsalmon;
+    
+}
+.second-donate{
+    background-color: tomato;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+    
+}
+.other-amount{
+    font-weight: lighter;
+}
+.second-head{
+    text-align: center;
+}
