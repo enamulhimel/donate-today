@@ -70,3 +70,26 @@ body{
 .second-head{
     text-align: center;
 }
+.flex-container2{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.container1{
+    padding:10px 20px;
+    background-color: azure;
+    margin: 5px;
+    border-radius: 5px;
+}
+.container2{
+    padding:10px 20px;
+    background-color: lightpink;
+    margin: 5px;
+    border-radius: 5px;
+}
+.container3{
+    padding:10px 20px;
+    background-color: rgb(238, 238, 192);
+    margin: 5px;
+    border-radius: 5px;
+}
