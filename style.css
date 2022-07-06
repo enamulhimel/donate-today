@@ -54,16 +54,6 @@ body{
     background-color: lightsalmon;
     
 }
-.second-donate{
-    background-color: tomato;
-    text-align: center;
-    padding: 10px 20px;
-    text-decoration: none;
-    color: white;
-    border-radius: 5px;
-    font-weight: bolder;
-    
-}
 .other-amount{
     font-weight: lighter;
 }
@@ -92,4 +82,13 @@ body{
     background-color: rgb(238, 238, 192);
     margin: 5px;
     border-radius: 5px;
+}
+.how-to-donate{
+    display: flex;
+    margin-left: 20px;
+}
+.photo-add{
+    width: 50%;
+    margin-left: 20px;
+
 }
