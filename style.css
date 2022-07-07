@@ -23,7 +23,7 @@ body{
     display: block;
 }
 .flex-container{
-    background-image: url(images/donation8.jpg);
+    background-image: url(images/donation13.jpg);
     background-image: linear-gradient();
     height: 600px;
     width: 100%;
@@ -68,7 +68,7 @@ body{
 }
 .container1{
     padding:10px 20px;
-    background-color: azure;
+    background-color: rgb(138, 220, 220);
     margin: 5px;
     border-radius: 5px;
 }
@@ -130,3 +130,8 @@ footer{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
